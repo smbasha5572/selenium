@@ -1,0 +1,2 @@
+cd "C:\workspace\eclipse\selenium"
+mnv clean install
